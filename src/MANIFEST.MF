@@ -1,0 +1,3 @@
+Main-Class: Fenetre
+Class-Path: \src\liquidlnf.jar 
+
